@@ -1,0 +1,8 @@
+{
+"instant_games": {
+"FB_appId":"194192127626229",
+"sdkPath":"https://connect.facebook.net/en_US/fbinstant.6.2.js",
+"platform_version": "RICH_GAMEPLAY", 
+"navigation_menu_version": "NAV_FLOATING"
+}
+} 
